@@ -9,14 +9,17 @@
 + GitLab 2.0
 
 Документация: https://docs.gitlab.com/ee/api/oauth2.html
+
 модули, библиотеки, cli & etc:
 https://github.com/andreassolberg/jso
 https://github.com/mulesoft/js-client-oauth2
 
 + deviantART 2.0 drafts 10 and 15
+
 Документация: https://www.deviantart.com/developers/authentication
 
 + GitHub 2.0
+
 Документация: https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/
 
 + Google 2.0
