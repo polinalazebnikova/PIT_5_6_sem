@@ -31,23 +31,10 @@ https://github.com/stevenmaguire/oauth2-paypal
 
 https://github.com/ker0x/oauth2-spotify
 
-+ deviantART 2.0 drafts 10 and 15
++ Dropbox
 
-Документация: https://www.deviantart.com/developers/authentication
+Документация: https://developers.dropbox.com/oauth-guide
 
-+ WeChat 2.0
++ Discord
 
-Документация: https://wechat-oauth2.readthedocs.io/en/latest/api.html
-
-https://github.com/oakhope/oauth2-wechat
-
-| Название | Доки                                                                                                               | Экосистема                                                                    |
-| -------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| Google   | [Using OAuth 2.0 to Access Google APIs](https://developers.google.com/identity/protocols/oauth2)                   | npm: `google-auth-library`<br>pip: `google-auth`<br>golang: `google`          |
-| Yandex   | [OAuth в Яндексе](https://yandex.ru/dev/oauth/doc/dg/concepts/about.html)                                          | npm: `passport-yandex`<br>golang: `yandex`                                    |
-| Dropbox  | [Dropbox OAuth Guide](https://developers.dropbox.com/oauth-guide)                                                  | npm: `dropbox`<br>pip: `dropbox`<br>golang: `dropbox`                         |
-| Amazon   | [Login with Amazon Documentation](https://developer.amazon.com/docs/login-with-amazon/documentation-overview.html) | npm: `amazon-cognito-auth-js`<br>pip: `aws-requests-auth`<br>golang: `amazon` |
-| Discord  | [Discord Developer Portal — Documentation — OAuth2](https://discord.com/developers/docs/topics/oauth2)             | npm: `discord-oauth2`<br>golang: `discord`                                                                          |
-| GitHub   | [Authorizing OAuth Apps - GitHub Docs](https://docs.github.com/en/developers/apps/authorizing-oauth-apps)          | golang: `github`                                                                          |
-
-
+Документация: https://discord.com/developers/docs/topics/oauth2
