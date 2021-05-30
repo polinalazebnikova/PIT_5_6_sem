@@ -1,13 +1,4 @@
 # Cписок популярных oAuth провайдеров
-+ GitLab 2.0
-
-Документация: https://docs.gitlab.com/ee/api/oauth2.html
-
-модули, библиотеки, cli & etc:
-
-https://github.com/andreassolberg/jso
-
-https://github.com/mulesoft/js-client-oauth2
 
 + Google 2.0
 
